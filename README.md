@@ -25,7 +25,7 @@ I'm Arjun, a Lead Software Engineer with a passion for building scalable and inn
 -->
 ## 📫 Get in Touch
 
-![Gmail](https://img.icons8.com/color/48/000000/gmail.png) [](mailto:arjuntpnambiar@gmail.com) 
+![Gmail](https://img.icons8.com/color/48/000000/gmail.png) [arjuntpnambiar@gmail.com](mailto:arjuntpnambiar@gmail.com) 
 ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) [](https://www.linkedin.com/in/arjun-tp)
 
 
