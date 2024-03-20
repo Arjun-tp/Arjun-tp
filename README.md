@@ -16,7 +16,8 @@ I'm Arjun, a Lead Software Engineer with a passion for building scalable and inn
 - 🌱 I'm continuously learning and exploring new technologies to stay updated with the latest trends in web development.
 - 👯 I'm always open to collaborating on exciting projects that challenge and inspire me.
 - 💬 Ask me about anything related to full-stack development, JavaScript frameworks, MCU, DCEU, fitness tips and workout routines.
-- 📫 You can reach me at: [arjuntpnambiar@gmail.com](mailto:arjuntpnambiar@gmail.com)
+
+<!-- - 📫 You can reach me at: [arjuntpnambiar@gmail.com](mailto:arjuntpnambiar@gmail.com) -->
 
 <!--
 ## 📈 GitHub Stats
