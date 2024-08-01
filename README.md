@@ -5,7 +5,7 @@ I'm Arjun, Lead Software Engineer with a passion for building scalable and innov
 ## 🚀 Skills & Technologies
 
 - **Languages**: JavaScript, HTML, Java, Swift, Python
-- **Frameworks/Libraries**: TypeScript, Sequelize, Prisma, Mongoose, Elasticsearch, GraphQL, Jest, Kafka
+- **Frameworks/Libraries**: TypeScript, Sequelize, Prisma, Mongoose, Elasticsearch, GraphQL, Fastify, Jest, Kafka
 - **Version Control**: GitHub, Bitbucket, GitLab
 - **Database**: MongoDB, PostgreSQL, Redis, DynamoDB, MySQL
 - **Tools**: Firebase, Docker, Google Analytics, Stripe, SendGrid, Mailjet, Sentry, LogRocket, JMeter, SonarQube, Socket.dev
