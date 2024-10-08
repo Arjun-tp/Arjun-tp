@@ -1,6 +1,6 @@
 
 # Hello, World! 🌍👋
-I'm Arjun, Lead Software Engineer with a passion for building scalable and innovative solutions. I specialize in full-stack development using JavaScript and Python.
+I'm Arjun, Software Engineer with a passion for building scalable and innovative solutions. I specialize in full-stack development using JavaScript and Python.
 
 ## 🚀 Skills & Technologies
 
