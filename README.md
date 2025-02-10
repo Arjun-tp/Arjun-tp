@@ -27,6 +27,13 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arjun-tp&theme=dark&hide_border=true)<br/>
 -->
 
+## 🌐 My Portfolio
+[![Portfolio Badge](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://www.arjuntp.com)
+
+🔗 Explore my work, projects, and achievements on my [personal website](https://www.arjuntp.com), where I showcase:  
+- My latest projects and innovations 🚀  
+- Contact details for collaboration 🤝
+
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arjun-tp&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 <!--
@@ -35,13 +42,6 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 ![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-tp&show_icons=true&theme=light)
 -->
 
-
-## 🌐 My Portfolio
-[![Portfolio Badge](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://www.arjuntp.com)
-
-🔗 Explore my work, projects, and achievements on my [personal website](https://www.arjuntp.com), where I showcase:  
-- My latest projects and innovations 🚀  
-- Contact details for collaboration 🤝  
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
