@@ -34,6 +34,9 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 - My latest projects and innovations 🚀  
 - Contact details for collaboration 🤝
 
+## 📈 GitHub Contribution Graph  
+[![Arjun's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Arjun-tp&theme=github-light&hide_border=true)](https://github.com/Arjun-tp)
+
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arjun-tp&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 <!--
