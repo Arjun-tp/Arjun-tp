@@ -37,7 +37,7 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 
 
 ## 🌐 My Portfolio
-- Check out my portfolio here: [arjuntp.com](https://www.arjuntp.com)  
+- Check out my portfolio here: [![Portfolio Badge](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://www.arjuntp.com)  
 
 
 ### ✍️ Quote
