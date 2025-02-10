@@ -36,9 +36,12 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 -->
 
 
-## 🌐 My Portfolio  
+## 🌐 My Portfolio
+[![Portfolio Badge](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://www.arjuntp.com)
 
-[![Portfolio](https://img.shields.io/badge/🌍%20Visit%20Portfolio-%230084FF?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.arjuntp.com
+🔗 Explore my work, projects, and achievements on my [personal website](https://www.arjuntp.com), where I showcase:  
+- My latest projects and innovations 🚀  
+- Contact details for collaboration 🤝  
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
