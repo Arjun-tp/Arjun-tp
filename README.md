@@ -29,6 +29,17 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 
 ![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-tp&show_icons=true&theme=light)
 -->
+
+## 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+## 🌐 My Portfolio
+- Check out my portfolio here: [arjuntp.com](https://www.arjuntp.com)  
+
+
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
