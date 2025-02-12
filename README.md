@@ -30,9 +30,7 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 ## 🌐 My Portfolio
 [![Portfolio Badge](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://www.arjuntp.com)
 
-🔗 Explore my work, projects, and achievements on my [personal website](https://www.arjuntp.com), where I showcase:  
-- My latest projects and innovations 🚀  
-- Contact details for collaboration 🤝
+🔗 Explore my work, projects, and achievements on my [personal website](https://www.arjuntp.com)
 
 ## 📈 GitHub Contribution Graph  
 [![Arjun's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Arjun-tp&theme=github-dark&hide_border=true)](https://github.com/Arjun-tp)
