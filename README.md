@@ -36,7 +36,7 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 [![Arjun's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Arjun-tp&theme=github-dark&hide_border=true)](https://github.com/Arjun-tp)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arjun-tp&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Arjun-tp&title=MultiLanguage,Experience,Repositories,Stars,Commits,Followers,PullRequest&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 <!--
 ## 📈 GitHub Stats
 
