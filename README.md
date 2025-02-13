@@ -53,8 +53,9 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 
 [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:arjuntpnambiar@gmail.com) [](mailto:arjuntpnambiar@gmail.com) 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/arjun-tp)
+[![Portfolio](https://img.icons8.com/?size=52&id=J3nZHWgT1e7m&format=png&color=000000)](https://www.linkedin.com/in/arjun-tp)
 
-[![](https://visitcount.itsvg.in/api?id=Arjun-tp&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Arjun-tp&icon=0&color=0)](https://visitcount.itsvg.in) -->
 <!--
 - Email: arjuntpnambiar@gmail.com
 - LinkedIn: [linkedin.com/in/arjun-tp](https://www.linkedin.com/in/arjun-tp)
