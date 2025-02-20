@@ -48,8 +48,8 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-## 📫 Get in Touch
 
+## 📫 Get in Touch
 [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:arjuntpnambiar@gmail.com) [](mailto:arjuntpnambiar@gmail.com) 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/arjun-tp)
 [![Portfolio](https://img.icons8.com/?size=52&id=J3nZHWgT1e7m&format=png&color=000000)](https://www.arjuntp.com)
