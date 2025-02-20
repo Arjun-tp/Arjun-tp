@@ -3,7 +3,6 @@
 I'm Arjun, Software Engineer with a passion for building scalable and innovative solutions. I specialize in full-stack development using JavaScript and Python.
 
 ## 💻 Tech Stack
-
 - **Languages**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 - **Frameworks/Libraries**: ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
@@ -16,7 +15,6 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 
 
 ## 🚀 About Me
-
 - 🔭 I'm currently working on building scalable web applications and honing my skills as a full-stack developer.
 - 🌱 I'm continuously learning and exploring new technologies to stay updated with the latest trends in web development.
 - 👯 I'm always open to collaborating on exciting projects that challenge and inspire me.
@@ -41,7 +39,6 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 
 ## 📈 GitHub Stats
 <!--![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-tp&show_icons=true&theme=light)-->
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-tp&hide_progress=true&theme=dark&langs_count=8)
 
 
