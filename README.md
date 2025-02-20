@@ -40,7 +40,6 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 
 
 ## 📈 GitHub Stats
-
 <!--![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-tp&show_icons=true&theme=light)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-tp&hide_progress=true&theme=dark&langs_count=8)
