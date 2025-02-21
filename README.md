@@ -9,7 +9,7 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 
 - **Version Control**: ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
 
-- **Cloud**: ![AWS](https://img.icons8.com/?size=24&id=VoXRGxL3ekkk&format=png&color=ffffff)
+- **Cloud**: ![AWS](https://img.icons8.com/?size=24&id=VoXRGxL3ekkk&format=png&color=ffffff) ![Azure](https://img.icons8.com/?size=24&id=VLKafOkk3sBX&format=png&color=000000)
 
 - **Databases**: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?logo=amazondynamodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
