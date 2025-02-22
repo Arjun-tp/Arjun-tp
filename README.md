@@ -58,6 +58,5 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 - Email: arjuntpnambiar@gmail.com
 - LinkedIn: [linkedin.com/in/arjun-tp](https://www.linkedin.com/in/arjun-tp)
 -->
-
 ---
 
