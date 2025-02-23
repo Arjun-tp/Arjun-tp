@@ -22,11 +22,6 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 - 👯 I'm always open to collaborating on exciting projects that challenge and inspire me.
 - 💬 Ask me about anything related to full-stack development, JavaScript frameworks, MCU, DCEU, fitness tips and workout routines.
 
-<!-- - 📫 You can reach me at: [arjuntpnambiar@gmail.com](mailto:arjuntpnambiar@gmail.com) -->
-<!--## 📈 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arjun-tp&theme=dark&hide_border=true)<br/>
--->
-
 ## 🌐 My Portfolio
 [![Portfolio Badge](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://www.arjuntp.com)
 
