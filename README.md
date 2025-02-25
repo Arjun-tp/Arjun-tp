@@ -1,6 +1,6 @@
 
 # Hello, World! 🌍👋
-I'm Arjun, Software Engineer with a passion for building scalable and innovative solutions. I specialize in full-stack development using JavaScript and Python.
+I'm Arjun, Software Engineer with a passion for building scalable and innovative solutions. I specialize in full-stack development using JavaScript and Python stack.
 
 ## 💻 Tech Stack
 - **Languages**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
