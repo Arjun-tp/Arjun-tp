@@ -37,7 +37,7 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-tp&hide_progress=true&theme=dark&langs_count=8)
 
 ## 🔬GitHub Stats
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Arjun-tp&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Arjun-tp&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
 
 ## ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
