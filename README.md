@@ -15,7 +15,6 @@ I'm Arjun, Software Engineer with a passion for building scalable and innovative
 
 - **Tools**: ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white) ![SendGrid](https://img.shields.io/badge/SendGrid-0080FF?logo=sendgrid&logoColor=white) ![Mailjet](https://img.shields.io/badge/Mailjet-FFD700?logo=mailjet&logoColor=black) ![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white) ![LogRocket](https://img.shields.io/badge/LogRocket-6633FF?logo=logrocket&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white) ![Socket.dev](https://img.shields.io/badge/Socket.dev-000000?logo=socketdotio&logoColor=white)
 
-
 ## 🚀 About Me
 - 🔭 I'm currently working on building scalable web applications and honing my skills as a full-stack developer.
 - 🌱 I'm continuously learning and exploring new technologies to stay updated with the latest trends in web development.
