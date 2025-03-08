@@ -1,10 +1,15 @@
 
 # Hello, World! 🌍👋
 const arjun = {
+
   role: "Software Engineer",
+
   skills: ["JavaScript", "Typescript", "Swift", "Python"],
+
   passions: ["Building cool stuff", "Learning new tech", "Solving problems"],
+
   currentlyExploring: "AI models & Devops practices",
+
 };
 
 console.log("Hello, world! 👋");
