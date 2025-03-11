@@ -1,13 +1,13 @@
 
 # Hello, World! 🌍👋
+```
 const arjun = {
   role: "Software Engineer",
   skills: ["JavaScript", "Typescript", "Swift", "Python"],
   passions: ["Building cool stuff", "Learning new tech", "Solving problems"],
   currentlyExploring: "AI models & Devops practices",
 };
-
-console.log("Hello, world! 👋");
+```
 
 <!-- I'm Arjun, Software Engineer with a passion for building scalable and innovative solutions. I specialize in full-stack development using JavaScript and Python stack. -->
 
