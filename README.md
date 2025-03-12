@@ -4,7 +4,7 @@
 const arjun = {
   role: "Software Engineer",
   skills: ["JavaScript", "Typescript", "Swift", "Python"],
-  passions: ["Building cool stuff", "Learning new tech", "Solving problems"],
+  passions: ["Building web app", "Learning new tech", "Solving problems"],
   currentlyExploring: "AI models & Devops practices",
 };
 ```
