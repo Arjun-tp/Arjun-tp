@@ -32,7 +32,8 @@ const arjun = {
 - 💬 Ask me about anything related to full-stack development, JavaScript frameworks, MCU, DCEU, fitness tips and workout routines.
 
 ## 🌐 My Portfolio
-[![Portfolio Badge](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=internet-explorer)](https://www.arjuntp.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Explore%20Now-FF4500?style=for-the-badge)](https://www.arjuntp.com)
+
 
 🔗 Explore my work, projects, and achievements on my [personal website](https://www.arjuntp.com)
 
