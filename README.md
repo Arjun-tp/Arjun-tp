@@ -8,7 +8,8 @@ const arjun = {
 };
 ```
 
-I'm Arjun, Software Engineer with a passion for building scalable and innovative solutions. I specialize in full-stack development using JavaScript and Python stack.
+
+<!-- I'm Arjun, Software Engineer with a passion for building scalable and innovative solutions. I specialize in full-stack development using JavaScript and Python stack. -->
 
 ## 💻 Tech Stack
 - **Languages**: ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
