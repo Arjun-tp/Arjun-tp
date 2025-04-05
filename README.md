@@ -55,5 +55,4 @@ const arjun = {
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/arjun-tp)
 [![Portfolio](https://img.icons8.com/?size=52&id=J3nZHWgT1e7m&format=png&color=000000)](https://www.arjuntp.com)
 <!-- [![](https://visitcount.itsvg.in/api?id=Arjun-tp&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
 ---
