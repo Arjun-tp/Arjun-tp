@@ -33,7 +33,6 @@ const arjun = {
 ## 🌐 My Portfolio
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Explore%20Now-FF4500?style=for-the-badge)](https://www.arjuntp.com)
 
-
 🔗 Explore my work, projects, and achievements on my [personal website](https://www.arjuntp.com)
 
 ## 📈 Contribution Graph  
