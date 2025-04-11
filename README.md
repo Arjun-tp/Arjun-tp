@@ -49,7 +49,6 @@ const arjun = {
 ## ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-
 ## 📫 Get in Touch
 [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:arjuntpnambiar@gmail.com) [](mailto:arjuntpnambiar@gmail.com) 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/arjun-tp)
