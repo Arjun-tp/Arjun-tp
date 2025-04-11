@@ -7,7 +7,6 @@ const arjun = {
   currentlyExploring: "AI models & Devops practices",
 };
 ```
-
 <!-- I'm Arjun, Software Engineer with a passion for building scalable and innovative solutions. I specialize in full-stack development using JavaScript and Python stack. -->
 
 ## 💻 Tech Stack
