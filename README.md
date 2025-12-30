@@ -37,8 +37,8 @@ const arjun = {
 <!--  ## 📈 Contribution Graph  
 [![Arjun's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Arjun-tp&theme=github-dark&hide_border=true)](https://github.com/Arjun-tp) -->
 
-## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arjun-tp&title=MultiLanguage,Experience,Repositories,Stars,Commits,Followers,PullRequest&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+<!-- ## 🏆 Trophies
+![](https://github-profile-trophy.vercel.app/?username=Arjun-tp&title=MultiLanguage,Experience,Repositories,Stars,Commits,Followers,PullRequest&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4) -->
 
 <!-- ## 🎯 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-tp&hide_progress=true&theme=dark&langs_count=10)  -->
